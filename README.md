@@ -1,5 +1,1 @@
-#include <stdio.h>
-main()
-{
-  printf("hello, world\n");
-}
+CL64-01
