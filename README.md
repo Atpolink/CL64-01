@@ -1,5 +1,5 @@
-# CL64-01
-Computer Laboratory 2564 - Lab 01
-
-Myname is Thitiphat Acharakun
-Edited by Github Text Editor.
+#include <stdio.h>
+main()
+{
+  printf("hello, world\n");
+}
